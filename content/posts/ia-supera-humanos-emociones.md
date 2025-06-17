@@ -1,7 +1,7 @@
 +++
 date = '2025-06-16T16:56:39-04:00'
 draft = false
-title = 'Ia Supera Humanos Emociones'
+title = 'IA Supera Humanos Emociones'
 +++
 
 🤖 La IA supera a los humanos en inteligencia emocional En un estudio revolucionario, la inteligencia artificial no solo demostró dominar la lógica y la velocidad, sino que también superó a los humanos en inteligencia emocional.

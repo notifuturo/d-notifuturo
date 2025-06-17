@@ -1,4 +1,5 @@
-baseURL = 'https://notifuturo.github.io/d-notifuturo/'
+baseURL = 'https://notifuturo.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
+canonifyURLs = true
