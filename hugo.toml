@@ -3,3 +3,13 @@ languageCode = 'en-us'
 title = 'NotiFuturo'
 theme = "PaperMod"
 canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+    [markup.goldmark.renderer.linkAttributes]
+      rel = "noopener noreferrer"
+      target = "_blank"
