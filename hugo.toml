@@ -8,8 +8,9 @@ canonifyURLs = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-    [markup.goldmark.parser]
-      autoHeadingID = true
-    [markup.goldmark.renderer.linkAttributes]
-      rel = "noopener noreferrer"
-      target = "_blank"
+  [markup.goldmark.parser]
+    autoHeadingID = true
+  [markup.goldmark.renderer.linkAttributes]
+    href = "^(http|https)://"
+    target = "_blank"
+    rel = "noopener noreferrer"
