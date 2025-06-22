@@ -14,7 +14,4 @@ Este hito marca un cambio de paradigma: las máquinas no solo entienden nuestras
 
 El futuro de la inteligencia emocional ya no será solo humano… será híbrido.
 
-🔗 Lee el estudio completo en <a href="https://doi.org/10.1038/s44271-025-00258-x" target="_blank" rel="noopener">Communications Psychology</a> 📚 Cita académica: Schlegel, K., Sommer, N. R., & Mortillaro, M. (2025). Large language models are proficient in solving and creating emotional intelligence tests. <em>Communications Psychology</em>, 3, 80.
-
-
 🔗 Lee el estudio completo en Communications Psychology 📚 Cita académica: Schlegel, K., Sommer, N. R., & Mortillaro, M. (2025). Large language models are proficient in solving and creating emotional intelligence tests. Communications Psychology, 3, 80. https://doi.org/10.1038/s44271-025-00258-x
