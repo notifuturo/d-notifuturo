@@ -6,8 +6,17 @@
     <description>Recent content on NotiFuturo</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 16:56:39 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 14:05:05 -0400</lastBuildDate>
     <atom:link href="https://notifuturo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nueva manera de editar o generar imágenes</title>
+      <link>https://notifuturo.com/posts/editar-imagenes-sin-generador/</link>
+      <pubDate>Sat, 26 Jul 2025 14:05:05 -0400</pubDate>
+      <guid>https://notifuturo.com/posts/editar-imagenes-sin-generador/</guid>
+      <description>&lt;p&gt;🔍 Investigadores del MIT descubren una nueva forma de generar y editar imágenes sin generadores
+Un equipo de investigadores del MIT ha revelado una técnica innovadora que permite crear, editar y rellenar imágenes mediante inteligencia artificial sin necesidad de utilizar un generador, lo cual representa un cambio de paradigma en el campo de la visión por computadora.&lt;/p&gt;
+&lt;p&gt;Tradicionalmente, los sistemas de generación de imágenes usan dos componentes esenciales: un tokenizer (codificador) que convierte la información visual en representaciones comprimidas, y un generador que las transforma en nuevas imágenes. Sin embargo, el equipo del MIT demostró que, al combinar un tokenizer unidimensional (1D) y un decodificador (detokenizer), se puede prescindir por completo del generador.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La IA supera a los humanos en prueba de inteligencia emocional</title>
       <link>https://notifuturo.com/posts/ia-supera-humanos-emociones/</link>
