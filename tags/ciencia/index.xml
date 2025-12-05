@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ciencia on NotiFuturo</title>
+    <link>https://notifuturo.com/tags/ciencia/</link>
+    <description>Recent content in Ciencia on NotiFuturo</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 11:00:00 -0400</lastBuildDate>
+    <atom:link href="https://notifuturo.com/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un microrrobot volador del MIT iguala la velocidad y agilidad de un abejorro</title>
+      <link>https://notifuturo.com/posts/microrobot-matches-bumblebee-speed/</link>
+      <pubDate>Wed, 03 Dec 2025 11:00:00 -0400</pubDate>
+      <guid>https://notifuturo.com/posts/microrobot-matches-bumblebee-speed/</guid>
+      <description>Ingenieros del MIT desarrollan un microrrobot volador capaz de realizar acrobacias y maniobras rápidas gracias a un controlador de IA que aumenta su velocidad en un 450 %.</description>
+    </item>
+  </channel>
+</rss>
