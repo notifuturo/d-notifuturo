@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Energía on NotiFuturo</title>
+    <link>https://notifuturo.com/tags/energ%C3%ADa/</link>
+    <description>Recent content in Energía on NotiFuturo</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Dec 2025 11:00:00 -0400</lastBuildDate>
+    <atom:link href="https://notifuturo.com/tags/energ%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las baterías estructurales llegan: materiales que almacenan energía y sostienen el vehículo</title>
+      <link>https://notifuturo.com/posts/structural-battery-composites/</link>
+      <pubDate>Fri, 05 Dec 2025 11:00:00 -0400</pubDate>
+      <guid>https://notifuturo.com/posts/structural-battery-composites/</guid>
+      <description>Los structural battery composites (SBCs) permiten que paneles, chasis y fuselajes funcionen simultáneamente como baterías y componentes estructurales, reduciendo peso, mejorando eficiencia y abriendo nuevas posibilidades de diseño.</description>
+    </item>
+  </channel>
+</rss>
